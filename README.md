@@ -1,10 +1,8 @@
 REQUER PYTHON 3.9
 
-- Baixe o Discord-Badge-Scraper e Extraia
-- Abra o instalador
-- Instalar Pacotes:
-- pip install discum && pip install time && pip install colorama && pip install os && pip install sty
-- Abra start.bat
-- Colar Token, ID do Servidor, ID do Canal
-- Espere checkar todos do Servidor
-- Abra result.txt para ver o resultado
+- Baixe o Discord-BadgeScraper e Extraia;
+- Execute o Instalador.bat para instalar todas as dependências;
+- Execute o Iniciar.bat
+- Colar Token, ID do Servidor, ID do Canal;
+- Espere scabear todos os membros do Servidor;
+- Abra o resultados.txt para ver a lista dos membros que foram encontrados com badges raras.
