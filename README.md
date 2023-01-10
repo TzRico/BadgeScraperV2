@@ -1,4 +1,4 @@
-REQUER PYTHON 3.9
+REQUER PYTHON 3.9 OU SUPERIOR
 
 - Baixe o Discord-BadgeScraper e Extraia;
 - Execute o Instalador.bat para instalar todas as dependências;
