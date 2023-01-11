@@ -7,6 +7,12 @@ REQUER PYTHON 3.9 OU SUPERIOR
 - Espere escanear todos os membros do Servidor;
 - Abra o resultados.txt para ver a lista dos membros que foram encontrados com badges raras.
 
+## Contate-me
+
+﹒[Discord](https://discord.com/users/472756345909805059)
+﹒[Servidor do discord](https://discord.gg/giflandia)
+﹒[Steam](https://steamcommunity.com/id/Tzrico/)
+
 > ⭐ Sinta-se à vontade para marcar o repositório como estrela se isso o ajudou! ;)
 
 ----
