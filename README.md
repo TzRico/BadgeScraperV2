@@ -11,4 +11,4 @@ REQUER PYTHON 3.9 OU SUPERIOR
 
 ----
 
-> SelfCall by Tz está licenciado sob Attribution 4.0 International
+> BadgeScraperV2 by Tz está licenciado sob Attribution 4.0 International
